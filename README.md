@@ -7,7 +7,17 @@
 
 ![Vacation_Search](https://github.com/Jall3n/Geoapify-Module-6/assets/119149740/d34afaaa-671f-4c73-a43c-855d0942f5a6)
 
+- Finally we create a Vacation Itinerary folder and file. Import the Geoapify API and set the dependencies. We import the csv from the Vacation Search file and create a map that shows all the cities in our new DataFrame. We then choose four cities to travel to that meet our parameters and map out a travel path. 
 
+![VacItinerary_3](https://github.com/Jall3n/Geoapify-Module-6/assets/119149740/a2d30e1c-91bb-4dfa-a81c-eee5e77dc122)
+
+## Cities
+- Taltal, Chile
+- Monte Patria, Chile
+- Puerto Varas, Chile
+- Chonchi, Chile
+
+Search parameters: Min Temp was 55 and Max Temp was 82
 
 
 
