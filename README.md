@@ -1,1 +1,3 @@
-# Geoapify-Module-6
+# Geoapify Challenge
+
+## Purpose
